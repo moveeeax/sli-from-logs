@@ -30,3 +30,7 @@ sli-from-logs --input /var/log/nginx/access.log --format combined --objective 99
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [slo-calc](https://github.com/moveeeax/slo-calc/issues/4).
